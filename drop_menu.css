@@ -4,12 +4,14 @@
 
 }
 #navwrapper {
-	width: 960px;
+	width: 900px;
 	margin: 0 auto;
 	text-align: left;
 	margin-right: 1px;
 	color: yellow;
 	padding: 30px;
+    opacity: .2;
+
 }
 #nav ul {
 	list-style-type: none;
